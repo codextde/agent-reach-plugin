@@ -1,0 +1,11 @@
+{
+  "name": "agent-reach",
+  "owner": { "name": "Codext GmbH", "url": "https://codext.de" },
+  "plugins": [
+    {
+      "name": "agent-reach",
+      "source": "./",
+      "description": "Read and search YouTube, GitHub, X, Reddit, Bilibili, XiaoHongShu and more through the Agent Reach CLI, read-only and without API keys."
+    }
+  ]
+}

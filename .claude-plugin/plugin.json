@@ -1,0 +1,11 @@
+{
+  "name": "agent-reach",
+  "version": "1.0.0",
+  "description": "Read and search YouTube, GitHub, X, Reddit, Bilibili, XiaoHongShu and more through the Agent Reach CLI, read-only and without API keys.",
+  "author": { "name": "Codext GmbH", "url": "https://codext.de" },
+  "homepage": "https://github.com/codextde/agent-reach-plugin",
+  "repository": "https://github.com/codextde/agent-reach-plugin",
+  "license": "MIT",
+  "keywords": ["youtube", "subtitles", "github", "twitter", "reddit", "bilibili", "xiaohongshu", "research"],
+  "skills": "./skills/"
+}
